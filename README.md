@@ -1,6 +1,5 @@
 # Hi there 👋
 
-## 🚀 About Me
 I'm a **Senior Software Test Engineer** with **7 years of experience** in manual and automated testing for Web, Mobile, and API applications across multiple domains including **E-Commerce, HealthTech, FinTech, and SaaS**.
 
 I design scalable, maintainable, and AI-enhanced test automation frameworks that accelerate product releases and improve software quality.
