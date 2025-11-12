@@ -20,8 +20,8 @@ I design scalable, maintainable, and AI-enhanced test automation frameworks that
 | **Senior QA Engineer** | **Dscale – Dubai** | Developed a Playwright + Python test framework integrated with CI/CD and Allure Reports |
 | **Lead QA Engineer** | **Core Direction – Dubai** | Built Cypress test suites for web apps, improving regression coverage by 60% |
 | **Senior QA Engineer** | **Filledstacks – South Africa** | Manually test 7+ mobile apps |
-| **QA Engineer** | **Rebel Technology** | Designed QA strategy, implemented sanity & regression manual and automation test |
-| **Junior QA Engineer** | **EddiiHealth** | Tested Travel Booking app "KAYAK" and written full regresssion suite that cover almost 90% |
+| **QA Engineer** | **Rebel Technology - Pakistan** | Designed QA strategy, implemented sanity & regression manual and automation test |
+| **Junior QA Engineer** | **Arbisoft - Pakistan** | Tested Travel Booking app "KAYAK" and written full regresssion suite that cover almost 90% |
 
 ---
 
@@ -30,9 +30,9 @@ I design scalable, maintainable, and AI-enhanced test automation frameworks that
 | Project | Description | Link |
 |----------|--------------|------|
 | **Ayshei.com** | E-Commerce marketplace (Amazon-like platform) | [Ayshei](https://www.ayshei.com) |
-| **EddiiHealth.com** | Health companion app with AI insights | [EddiiHealth](https://www.eddiihealth.com) |
-| **CoreDirection.com** | Fitness booking and class management app | [CoreDirection](https://www.coredirection.com) |
 | **Kayak.com** | Travel & hotel search testing project | [Kayak](https://www.kayak.com) |
+| **EddiiHealth.com** | Health companion app with AI insights | [EddiiHealth](https://www.eddiihealth.com) |
+| **coreDirection.com** | Fitness booking and class management app | [CoreDirection](https://www.coredirection.com) |
 
 ---
 
