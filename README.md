@@ -59,7 +59,7 @@ I design scalable, maintainable, and AI-enhanced test automation frameworks that
 
 ## ✨ Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-shahriyar-abid)
-- 🌍 [Upwork Profile](https://www.upwork.com/freelancers/~01xxxxxxxxxxxxxx) *(add your actual Upwork URL)*
+- 🌍 [Upwork Profile](https://www.upwork.com/freelancers/shahriyar)
 - 📧 **Email:** shahriyar.abid46@gmail.com
 
 ---
